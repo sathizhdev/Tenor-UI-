@@ -1,0 +1,11 @@
+--Thank you For this opportunity-------------------------
+
+1. I have used Material UI for the most of the UI Parts.
+
+2. For the owl carousel i have used a third party package.
+
+3. I have tried to Implement all the features except the pagination in Featured Component because the tenor api allows me to fetch only 50 results
+
+4. For the Trending Gifs part the tenor-api dont have dedicate api endpoint so i used feautured api reesults in the carousel
+
+-----------------------------------------Thank you----------

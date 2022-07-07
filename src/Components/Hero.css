@@ -1,0 +1,22 @@
+.logo {
+  margin-left: 189px;
+  padding: 15px;
+}
+
+.topbar {
+  align-items: center;
+  justify-content: center;
+  height: 75px;
+  background-image: linear-gradient(90deg, #4cafff, #2e93e6);
+  padding-left: 189px;
+  padding-right: 189px;
+}
+
+.topbar input {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 1px 0 rgba(0, 0, 0, 0.08);
+  width: 1110px;
+  height: 40px;
+  border-radius: 3px;
+  width: 100%;
+  margin-top: 15px;
+}

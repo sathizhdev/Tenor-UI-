@@ -1,0 +1,14 @@
+.title {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.trending:nth-child(n + 2) {
+  margin-left: 20px;
+}
+
+.trending img {
+  width: 206px;
+  height: 90px;
+  border-radius: 4px;
+}
